@@ -33,7 +33,9 @@ GET all
 
 
 Post create
-![Screenshot from 2025-06-23 11-47-50](https://github.com/user-attachments/assets/cbfae51d-863b-4032-835d-137e79d4f9c2)
+
+
+![Screenshot from 2025-06-23 11-53-07](https://github.com/user-attachments/assets/63bd5716-980f-45a1-942c-cb12e554ba48)
 
 
 Другой пример (еще сырой):
